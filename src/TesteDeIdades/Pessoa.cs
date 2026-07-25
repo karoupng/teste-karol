@@ -1,4 +1,4 @@
-namespace DataProcessorTest;
+namespace TesteDeIdades;
 
 public class Pessoa
 {
