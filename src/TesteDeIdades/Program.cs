@@ -9,6 +9,12 @@ List<Pessoa> pessoas = new List<Pessoa>
     new Pessoa { Nome = "Eduardo", Idade = 30}
 
 };
+//validação inicial 
+if (pessoas == null || pessoas.Count == 0)
+{
+    System.Console.WriteLine("A lista está vazia/nula");
+    return;
+}
 //VARIÁVEIS
 int maiorIdade = 0;
 string nomeDoMaisVelho = string.Empty;
