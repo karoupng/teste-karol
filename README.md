@@ -7,7 +7,7 @@ Um sistema de processamento de dados desenvolvido em C# (.NET 8), solicitado com
 Para executar este projeto, o seu ambiente de desenvolvimento precisa atender aos seguintes requisitos:
 
 - **Linguagem:** C# 12
-- **Framework:** .NET 8.0 SDK (Obrigatório para compilação e execução)
+- **Framework:** .NET 8.0 SDK (Obrigatório para compilação e execução) https://dotnet.microsoft.com/pt-br/download/dotnet
 - **Ambiente:** Qualquer terminal (PowerShell, Bash, CMD) ou IDE (VS Code, Visual Studio)
 
 ## Instruções de Instalação e Execução
